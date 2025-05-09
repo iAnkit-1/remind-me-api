@@ -1,5 +1,8 @@
 # 📅 Remind-me-later API
 
+- View API testing results screenshots below📷
+
+
 This is a simple REST API built with Node.js, Express, and MongoDB that allows users to create reminders by submitting a message, date, time, and a delivery method (currently supports SMS and Email). This backend stores the data in MongoDB but does not send messages — it only records the reminders.
 
 ---
